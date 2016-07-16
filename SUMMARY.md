@@ -25,4 +25,5 @@
    * 5.1 math — 基本数学函数
    * 5.2 math/big — 大数实现
    * 5.3 math/cmplx — 复数基本函数操作
+   * 5.4 math/rand — 伪随机数生成器
 
