@@ -15,5 +15,5 @@
    * [2.5 unicode — Unicode码点、UTF-8/16编码](chapter02/02.5.md)
 * [第三章 数据结构与算法](chapter03/03.0.md)
    * [3.1 sort —— 排序算法](chapter03/03.1.md)
-   * 3.3 container — 容器数据类型：heap、list和ring
+   * [3.3 container — 容器数据类型：heap、list和ring](chapter03/03.3.md)
 
