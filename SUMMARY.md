@@ -9,4 +9,5 @@
    * [1.4 bufio — 缓存IO](chapter01/01.4.md)
 * 第二章 文本
    * [2.1 strings — 字符串操作](chapter02/02.1.md)
+   * 2.2 bytes — byte slice 便利操作
 
