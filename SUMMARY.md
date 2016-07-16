@@ -14,4 +14,5 @@
    * [2.4 regexp — 正则表达式](chapter02/02.4.md)
    * [2.5 unicode — Unicode码点、UTF-8/16编码](chapter02/02.5.md)
 * [第三章 数据结构与算法](chapter03/03.0.md)
+   * 3.1 sort —— 排序算法
 
