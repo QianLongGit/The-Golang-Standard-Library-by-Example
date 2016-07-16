@@ -10,4 +10,5 @@
 * 第二章 文本
    * [2.1 strings — 字符串操作](chapter02/02.1.md)
    * [2.2 bytes — byte slice 便利操作](chapter02/02.2.md)
+   * 2.3 strconv — 字符串和基本数据类型之间转换
 
